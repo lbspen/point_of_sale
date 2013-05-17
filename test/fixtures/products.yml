@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyString
+  price_cents: 
+  upc_code: MyString
+  taxable: false
+
+two:
+  name: MyString
+  description: MyString
+  price_cents: 
+  upc_code: MyString
+  taxable: false

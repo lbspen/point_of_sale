@@ -33,6 +33,11 @@ group :production do
   gem 'pg'
 end
 
+group :test, :development do
+  gem 'pry-rails'
+  gem 'pry-debugger'
+end
+
 gem 'ember-rails'
 gem 'filepicker-rails'
 
